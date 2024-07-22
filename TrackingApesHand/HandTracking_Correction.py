@@ -131,7 +131,7 @@ def direction_change(x,y,file,angle_threshold=90):
 
 main_directory = str(pathlib.Path(__file__).parent.resolve())+"/"
 pj = pd.read_csv(main_directory + 'PagesJaunes.csv')
-traj_directory = main_directory + "Alex/H5/"
+traj_directory = main_directory + "Alex/Trajectory h5/"
 
 files = filedialog.askopenfilenames() # select trajectories h5
 res_list = []
