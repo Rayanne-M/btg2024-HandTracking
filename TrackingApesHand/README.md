@@ -1,7 +1,5 @@
 # Beyond response times: Tracking apes’ hand trajectory on a touchscreen
 Friday, August 9, 2024, 10:00 – 11:00 by Raphaelle Malassis & Rayanne Martin
-## Introduction
-
 
 ## DeepLabcut
 During the workshop, you'll use DeepLabCut to track apes' hands by setting up the training you're own network.
